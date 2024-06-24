@@ -1,6 +1,6 @@
 # Perl 🐪
 
-My perl scripts while learning perl from [Derek Banas](https://www.youtube.com/watch?v=WEghIXs8F6c&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) youtube channel.
+My perl scripts while learning perl from [Derek Banas](https://www.youtube.com/watch?v=WEghIXs8F6c&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) youtube channel in preparation for a CS test.
 
 Code and Transcripts from the video are available in the [Perl Tutorial](https://www.newthinktank.com/2016/03/perl-tutorial/).
 
